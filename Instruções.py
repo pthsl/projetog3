@@ -5,5 +5,5 @@ git add . / git add nome-do-arquivo  # dá git add.  , para adicionar os arquivo
 git commit -m "mensagem"  # Coloque a mensagem entre aspas, e é obrigatório ter pelo menos uma mensagem
 git push   # Aqui envia o código pro git
 
-ccxcxcxcxcxxcc
+
 '''
