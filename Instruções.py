@@ -19,4 +19,7 @@ git push   # Aqui envia o código pro git
 
 
 git pull  # *RECEBE* os arquvios modificados no git para o seu repositório
+
+Rogerio
+MArcelo
 '''
