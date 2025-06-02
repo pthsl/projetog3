@@ -20,5 +20,5 @@ git push   # Aqui envia o código pro git
 
 git pull  # *RECEBE* os arquvios modificados no git para o seu repositório
 
-Lucianlo
+# Se quiser ceixar mais organizado, digite 'cls' no cmd para limpar o Terminal
 '''
